@@ -1,6 +1,3 @@
-User's Manual
-Yunfeng Shan
-Introduction
 MGST  implements a genome-scale algorithm: Maximum Gene-Support Tree (MGST) to estimate species tree from multiple gene trees based on multilocus sequences. It provides a new option for multiple genes to infer species tree. It is incorporated into popular phylogentic program: PHYLIP package with the same usage and user interface. It is suitable for phylogenetic methods including not only Baysian, but also maximum parsimony, maximum likelihood, neighbour-joining and so on. These methods are used to reconstruct single gene trees separately firstly with a variety of phylogenetic inference programs, then infer a species from multiple gene trees. Statistical confidence tests: chi-square test and Likelihood ratio G test are available for determining statistical significant level between the maximum gene support and the most second or third gene support. 
 ________________________________________
 Get MGST
